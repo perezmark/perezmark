@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mark Perez
 
-> Senior DevSecOps Engineer | Cloud Architect | Infrastructure Specialist
+> DevOps Engineer | Cloud Architect | Infrastructure Specialist
 
 ## 🚀 About Me
 Passionate DevOps engineer with expertise in cloud infrastructure, containerization, and automation. I specialize in building and maintaining scalable, resilient systems using modern DevOps practices and tools.
@@ -46,7 +46,7 @@ Passionate DevOps engineer with expertise in cloud infrastructure, containerizat
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?perezmark=YOURperezmark&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=perezmark&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
 
@@ -63,9 +63,8 @@ Passionate DevOps engineer with expertise in cloud infrastructure, containerizat
 - [Repository Link]
 
 ## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURPROFILE)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOURPROFILE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mldperez)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markperez.devops@gmail.com)
 
 ## 📊 Weekly Development Breakdown
 ```text
@@ -75,4 +74,4 @@ Python       ███░░░░░░░░░░░   15%
 ```
 
 ---
-⭐️ From [your-perezmark](https://github.com/perezmark)
+⭐️ From [perezmark](https://github.com/perezmark)
