@@ -1,6 +1,6 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Mark Perez
 
-> DevOps Engineer | Cloud Architect | Infrastructure Specialist
+> Senior DevSecOps Engineer | Cloud Architect | Infrastructure Specialist
 
 ## 🚀 About Me
 Passionate DevOps engineer with expertise in cloud infrastructure, containerization, and automation. I specialize in building and maintaining scalable, resilient systems using modern DevOps practices and tools.
