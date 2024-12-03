@@ -46,7 +46,7 @@ Passionate DevOps engineer with expertise in cloud infrastructure, containerizat
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?perezmark=YOURperezmark&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
 
@@ -75,4 +75,4 @@ Python       ███░░░░░░░░░░░   15%
 ```
 
 ---
-⭐️ From [your-username](https://github.com/your-username)
+⭐️ From [your-perezmark](https://github.com/perezmark)
